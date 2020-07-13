@@ -30,6 +30,6 @@ Degree in Systems Analysis and Development and back-end developer working with C
 
 👩🏻‍💻 currently learning react, nodejs and machine learning.
 
-💬 you can talk to me with need help.
+💬 you can talk to me if you need help.
 
 ⚡ fun fact: scooby-doo is my favorite cartoon and i love dinosaurs and galaxys.
