@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
-[![Site Badge](https://img.shields.io/badge/%20-leia-em-pt-br-lightgrey)](https://github.com/luizous/luizous/blob/master/README.pt-br.md)
-
+[![Badge for rating for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg)](https://github.com/luizous/luizous/blob/master/README.pt-br.md)
 
 Degree in Systems Analysis and Development and back-end developer working with C#/.NET;
 
