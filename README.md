@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 I'm a back-end developer working with C#/.NET and I love AI.
 
 🪐 21-years-old, from brazil;
+
 👩🏻‍💻 currently studing react, nodejs and machine learning.
