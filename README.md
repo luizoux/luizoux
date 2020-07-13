@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
 
-I'm a back-end developer working with C#/.NET and I love AI.
 
-🪐 21-years-old, from brazil;
+Degree in Systems Analysis and Development and back-end developer working with C#/.NET;
 
-👩🏻‍💻 currently studing react, nodejs and machine learning.
+🪐 she/her; 21-years-old; from brazil.
+
+👩🏻‍💻 currently learning react, nodejs and machine learning.
+
+💬 you can talk to me with need help.
+
+⚡ fun fact: scooby-doo is my favorite cartoon and i love dinosaurs and galaxys.
