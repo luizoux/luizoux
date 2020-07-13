@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/luizarvm)
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-[![Generic badge](https://img.shields.io/badge/leia%20em-pt%20br-000.svg)](https://github.com/luizous/luizous/blob/master/README.pt-br.md)
 [![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizous)](https://github.com/luizous)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
+
+Você pode ler sobre mim em português [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 
 Degree in Systems Analysis and Development and back-end developer working with C#/.NET;
 
