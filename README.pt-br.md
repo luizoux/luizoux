@@ -9,6 +9,8 @@ Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-
 
 🪐 ela/dela; 21 anos; de curitiba-pr.
 
+🦾 ativista dos direitos das mulheres e anti-fascista.
+
 👩🏻‍💻 atualmente estudando sobre react, nodejs e machine learning.
 
 💬 você pode falar comigo se precisar de ajuda sobre algo.
