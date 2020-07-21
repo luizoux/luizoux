@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
 
-<small> 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md). </small>
+🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 
 Degree in Systems Analysis and Development and back-end developer working with C#/.NET;
 
 🪐 she/her; 21-years-old; from brazil.
+
+🦾 Women's rights activist and anti-fascist.
 
 👩🏻‍💻 currently learning react, nodejs and machine learning.
 
