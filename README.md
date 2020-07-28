@@ -28,7 +28,7 @@ Degree in Systems Analysis and Development and back-end developer working with C
 
 🪐 she/her; 21-years-old; from brazil.
 
-🦾 Women's rights activist and anti-fascist.
+🦾 women's rights activist and anti-fascist.
 
 👩🏻‍💻 currently learning react, nodejs and machine learning.
 
