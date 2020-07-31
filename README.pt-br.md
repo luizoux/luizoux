@@ -11,6 +11,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-
 
 ⚡ fun fact: scooby-doo é meu desenho animado favorito e eu amo dinossauros e galáxias.
 
+---
 
 ### Fale comigo
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/luizous)](https://github.com/luizous)
@@ -18,7 +19,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
 
-<br/>
+---
 
 ### Linguagens e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
@@ -31,8 +32,6 @@ Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=dot-net)
 
-
-<br/><br/>
-
+---
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous)](https://github.com/anuraghazra/github-readme-stats)
