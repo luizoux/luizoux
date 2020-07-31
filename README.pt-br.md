@@ -28,6 +28,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=dot-net)
