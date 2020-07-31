@@ -5,8 +5,9 @@
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
+<br/>
 
-Degree in Systems Analysis and Development and back-end developer working with C#/.NET;
+Degree in Systems Analysis and Development and back-end developer;
 
 🪐 she/her; 21-years-old; from brazil.
 
