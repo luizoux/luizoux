@@ -55,7 +55,7 @@ Degree in Systems Analysis and Development and back-end developer;
 ![Microservices](https://img.shields.io/badge/Microservices-gray.svg)
 ![MVC](https://img.shields.io/badge/MVC-gray.svg)
 
-#### Other
+#### Others
 ![DesignPattern](https://img.shields.io/badge/Design%20Pattern-gray.svg)
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-gray.svg)
 ![APIsRestful](https://img.shields.io/badge/APIs%20Restful-gray.svg)
