@@ -1,5 +1,5 @@
 ## Olá, meu nome é Luiza 👋
-Sou formada em Análise e Desenvolvimento de Sistemas e sou desenvolvedora back-end;
+Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 🪐 ela/dela; 21 anos; de curitiba-pr.
 
