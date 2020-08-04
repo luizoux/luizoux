@@ -32,15 +32,15 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java)
 
 #### Frameworks
-![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=dot-net)
+![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 
 #### Ferramentas
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node-dot-js)
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
 
 #### Arquiteturas
