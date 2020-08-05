@@ -5,7 +5,7 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 🦾 ativista dos direitos das mulheres e anti-fascista.
 
-👩🏻‍💻 atualmente estudando sobre javascript, react e machine learning.
+👩🏻‍💻 atualmente estudando sobre react, node.js e machine learning.
 
 💬 você pode falar comigo se precisar de ajuda sobre algo.
 
@@ -21,8 +21,8 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 ---
 
-### Habilidades
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+### Habilidades Técnicas
+Minhas habilidades estão melhor detalhadas no meu site: https://luiza.dev/
 
 #### Linguagens
 ![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
@@ -34,20 +34,21 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 #### Frameworks
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react)
 
-#### Ferramentas
+#### Ferramentas & Ambientes
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 
-#### Arquiteturas
+#### Arquiteturas & Outros
 ![Microservices](https://img.shields.io/badge/Microservices-gray.svg)
 ![MVC](https://img.shields.io/badge/MVC-gray.svg)
-
-#### Outros
 ![DesignPattern](https://img.shields.io/badge/Design%20Pattern-gray.svg)
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-gray.svg)
 ![APIsRestful](https://img.shields.io/badge/APIs%20Restful-gray.svg)
