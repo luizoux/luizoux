@@ -30,7 +30,7 @@ Degree in Systems Analysis and Development and back-end developer;
 ---
 
 ### Technical Skills
-My skills is more detailed on my site: https://luiza.dev/
+My skills are more detailed on my site: https://luiza.dev/
 
 #### Languages
 ![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
