@@ -13,7 +13,7 @@ Degree in Systems Analysis and Development and back-end developer;
 
 🦾 women's rights activist and anti-fascist.
 
-👩🏻‍💻 currently learning javascript, react and machine learning.
+👩🏻‍💻 currently learning react, node.js and machine learning.
 
 💬 you can talk to me if you need help.
 
