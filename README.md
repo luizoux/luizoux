@@ -23,7 +23,7 @@ Degree in Systems Analysis and Development and back-end developer;
 
 ### Connect with me
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/luizous)](https://github.com/luizous)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
 
