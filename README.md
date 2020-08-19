@@ -9,11 +9,11 @@
 
 Degree in Systems Analysis and Development and back-end developer;
 
-🪐 she/her; 21-years-old; from brazil.
+🪐 she/her; 21 years old; from brazil.
 
 🦾 women's rights activist and anti-fascist.
 
-👩🏻‍💻 currently learning react, node.js and machine learning.
+👩🏻‍💻 currently learning react, node.js and clojure
 
 💬 you can talk to me if you need help.
 
