@@ -5,7 +5,7 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 🦾 ativista dos direitos das mulheres e anti-fascista.
 
-👩🏻‍💻 atualmente estudando sobre react, node.js e machine learning.
+👩🏻‍💻 atualmente estudando sobre react, node.js e clojure.
 
 💬 você pode falar comigo se precisar de ajuda sobre algo.
 
