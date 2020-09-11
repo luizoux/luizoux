@@ -46,7 +46,7 @@ You can download my resume on my site: https://luiza.dev/
 #### Libraries & Framework
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
