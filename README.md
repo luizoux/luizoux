@@ -43,7 +43,7 @@ You can download my resume on my site: https://luiza.dev/
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-gray.svg)
 
-#### Libraries & Framework
+#### Libraries & Frameworks
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
