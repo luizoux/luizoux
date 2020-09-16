@@ -1,4 +1,10 @@
 ## Olá, meu nome é Luiza 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/luizous)](https://github.com/luizous)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
+[![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
+[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/luizarvm)
+
 Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 🪐 ela/dela; 21 anos; de curitiba-pr.
@@ -10,15 +16,6 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 💬 você pode falar comigo se precisar de ajuda sobre algo.
 
 ⚡ fun fact: scooby-doo é meu desenho animado favorito e eu amo dinossauros e galáxias.
-
----
-
-### Fale comigo
-[![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/luizous)](https://github.com/luizous)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
-[![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
-[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/luizarvm)
 
 ---
 
