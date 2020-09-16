@@ -22,6 +22,16 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 ---
 
+### Você pode ajudar!
+#### 🐆 Pantanal Brasileiro ([info](https://www.instagram.com/p/CFLD6bRgrmG/))
+O Pantanal continua queimando fora de controle. De 1 de janeiro a 06 de setembro, já foram consumidos 2.349.000 hectares do bioma. Isso representa mais de 15% do bioma no Brasil, o equivalente a 15 cidades de São Paulo. Aqui estão algumas organizações onde você pode ajudar se informando, compartilhando e fazendo doações:
+- Ajude as famílias que estão sofrendo com as queimadas doando para o [Instituto Acaia](https://www.instagram.com/p/CFIUoboAkaG/);
+- [SOS Pantanal](https://linktr.ee/SOSPantanal) tem a missão de informar e promover o diálogo e a disseminação de informação;
+- [Instituto Homem Pantaneiro](http://www.institutohomempantaneiro.org.br/participe), preserva e conserva o pantanal e sua história disseminando conhecimento para o desenvolvimento de tecnologias ambientais;
+- [Instituto Arara Azul](https://linktr.ee/institutoararaazuloficial) a ONG visa proteger a biodiversidade do pantanal através de pesquisas e do monitoramento de ninhos naturais e artificiais protegendo várias espécies que ocupam o bioma.
+
+---
+
 ### Technical Skills
 Você pode fazer o download do meu currículo no meu site: https://luiza.dev/
 
