@@ -30,6 +30,16 @@ Degree in Systems Analysis and Development and back-end developer;
 
 ---
 
+### You can help!
+#### 🐆 Brazilian Pantanal ([info](https://www.instagram.com/p/CFLD6bRgrmG/))
+The Brazilian Pantanal is burning out of control. From January 1 to September 6, 2,349,000 hectares of the biome have already been consumed. This represents more than 15% of the biome in Brazil, equivalent to 15 cities in São Paulo. Here are some organizations you can help by staying informed and donating:
+- Help families that are suffering from the fires donate to [Instituto Acaia](https://www.instagram.com/p/CFIUoboAkaG/);
+- [SOS Pantanal](https://linktr.ee/SOSPantanal) has the mission to inform and promote dialogue and the dissemination of information;
+- [Instituto Homem Pantaneiro](http://www.institutohomempantaneiro.org.br/participe), is an institute that preserves and conserves the Pantanal and its history, disseminating knowledge for the development of environmental technologies;
+- [Instituto Arara Azul](https://linktr.ee/institutoararaazuloficial) an NGO that preserves biodiversity through research;
+
+---
+
 ### Technical Skills
 You can download my resume on my site: https://luiza.dev/
 
