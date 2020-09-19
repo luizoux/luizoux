@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
 [![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/luizarvm)
+[![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-blue)](https://luiza.dev/)
 
 Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
