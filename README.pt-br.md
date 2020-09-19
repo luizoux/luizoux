@@ -11,7 +11,7 @@ Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
 
 🦾 ativista dos direitos das mulheres e anti-fascista.
 
-👩🏻‍💻 atualmente estudando sobre react, node.js e clojure.
+👩🏻‍💻 atualmente estudando sobre React, Node.js e o livro Clean Code, de Robert Cecil Martin.
 
 💬 você pode falar comigo se precisar de ajuda sobre algo.
 
