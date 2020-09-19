@@ -14,7 +14,7 @@ Degree in Systems Analysis and Development and back-end developer;
 
 🦾 women's rights activist and anti-fascist.
 
-👩🏻‍💻 currently learning react, node.js and clojure.
+👩🏻‍💻 currently learning React, Node.js and the book Clean Code, by Robert Cecil Martin.
 
 💬 you can talk to me if you need help.
 
