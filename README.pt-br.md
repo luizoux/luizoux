@@ -30,7 +30,7 @@ O Pantanal continua queimando fora de controle. De 1 de janeiro a 06 de setembro
 
 ---
 
-### Technical Skills
+### Habilidades Técnicas
 Você pode fazer o download do meu currículo no meu site: https://luiza.dev/
 
 #### Linguagens
@@ -67,4 +67,5 @@ Você pode fazer o download do meu currículo no meu site: https://luiza.dev/
 
 ---
 
-[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiza Hall's Github Stat](https://github-readme-stats.vercel.app/api?username=luizous)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiza's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizous&count_private=true&layout=compact)](https://github.com/luizous?tab=repositories)
