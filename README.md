@@ -17,7 +17,7 @@ Degree in Systems Analysis and Development and back-end developer;
 
 👩🏻‍💻 currently learning React, Node.js and the book Clean Code, by Robert Cecil Martin.
 
-💬 you can talk to me if you need help.
+💬 you can talk to me if you need help (for real! send me a dm on twitter or a e-mail).
 
 ⚡ fun fact: scooby-doo is my favorite cartoon and i love dinosaurs and galaxys.
 
