@@ -8,15 +8,13 @@
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/><br/>
 
-Degree in Systems Analysis and Development and back-end developer;
+Back-end developer with 2 years of experience in the field. Graduated in Systems Analysis and Development and enthusiastic about artificial intelligence studies. Women's rights activist, anti-fascist and sometimes talking about political issues in technology 🦾
 
 🪐 she/her; 21 years old; from brazil.
 
-🦾 women's rights activist and anti-fascist.
-
 👩🏻‍💻 currently learning React, Node.js and the book Clean Code, by Robert Cecil Martin.
 
-💬 you can talk to me if you need help (for real! send me a dm on twitter or a e-mail).
+💬 you can talk to me if you need help (for real! send me a dm on twitter, linkedin or a e-mail).
 
 ⚡ fun fact: scooby-doo is my favorite cartoon and i love dinosaurs and galaxys.
 
