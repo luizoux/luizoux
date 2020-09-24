@@ -8,7 +8,7 @@
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/><br/>
 
-Back-end developer with 2 years of experience in the field. Graduated in Systems Analysis and Development and enthusiastic about artificial intelligence studies. Women's rights activist, anti-fascist and sometimes talking about political issues in technology 🦾
+Back-end developer with 2 years of experience in the field. Graduated in Systems Analysis and Development and enthusiastic about artificial intelligence studies. Women's rights activist, anti-fascist and sometimes talking about political issues in technology. 🦾
 
 🪐 she/her; 21 years old; from brazil.
 
