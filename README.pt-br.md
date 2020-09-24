@@ -5,15 +5,13 @@
 [![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/luizarvm)
 [![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-blue)](https://luiza.dev/)
 
-Formada em Análise e Desenvolvimento de Sistemas e desenvolvedora back-end;
+Desenvolvedora back-end com 2 anos de experiência na área. Formada em Análise e Desenvolvimento de Sistemas e entusiasta nos estudos sobre inteligência aritifical. Ativista dos direitos das mulheres, anti-fascista e ás vezes falando sobre problemas políticos nas tecnologia. 🦾
 
 🪐 ela/dela; 21 anos; de curitiba-pr.
 
-🦾 ativista dos direitos das mulheres e anti-fascista.
-
 👩🏻‍💻 atualmente estudando sobre React, Node.js e o livro Clean Code, de Robert Cecil Martin.
 
-💬 você pode falar comigo se precisar de ajuda sobre algo (é serio! pode me mandar uma dm no twitter ou um e-mail).
+💬 você pode falar comigo se precisar de ajuda sobre algo (é serio! pode me mandar uma dm no twitter, linkedin ou um e-mail).
 
 ⚡ fun fact: scooby-doo é meu desenho animado favorito e eu amo dinossauros e galáxias.
 
