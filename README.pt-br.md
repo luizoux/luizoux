@@ -1,9 +1,9 @@
 ## Olá, meu nome é Luiza 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizous/?locale=en_US)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
-[![Site Badge](https://img.shields.io/badge/%20-Lattes-lightgrey)](http://lattes.cnpq.br/1667735616723826)
-[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/luizarvm)
-[![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-blue)](https://luiza.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-44475a?logo=Linkedin&labelColor=44475a&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
+[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-44475a)](https://app.rocketseat.com.br/me/luizarvm)
+[![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
+[![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a)](https://luiza.dev/)
 
 Desenvolvedora back-end com 2 anos de experiência na área. Formada em Análise e Desenvolvimento de Sistemas e entusiasta nos estudos sobre inteligência aritifical. Ativista dos direitos das mulheres, anti-fascista e ás vezes falando sobre problemas políticos nas tecnologia. 🦾
 
