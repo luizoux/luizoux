@@ -5,8 +5,6 @@
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
 [![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a)](https://luiza.dev/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://linkedin.com/brunordgs)](https://linkedin.com/in/brunordgs/)
-
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/><br/>
 
