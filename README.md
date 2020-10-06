@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-44475a)](https://app.rocketseat.com.br/me/luizarvm)
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
-[![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a)](https://luiza.dev/)
+[![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/><br/>
@@ -31,8 +31,6 @@ The Brazilian Pantanal is burning out of control. From January 1 to September 6,
 ---
 
 ### Technical Skills
-You can download my resume on my site: https://luiza.dev/
-
 #### Languages
 ![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
