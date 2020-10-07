@@ -14,7 +14,7 @@ Back-end developer with 2 years of experience in the field. Graduated in Systems
 
 👩🏻‍💻 currently learning React, Node.js and the book Clean Code, by Robert Cecil Martin.
 
-💬 you can talk to me if you need help, send me a message at my Discord: Luiza#3095.
+💬 you can talk to me if you need help (for real! add me on Discord: Luiza#3095).
 
 ⚡ fun fact: scooby-doo is my favorite cartoon and i love dinosaurs and galaxys.
 
