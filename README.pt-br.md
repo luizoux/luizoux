@@ -11,7 +11,7 @@ Desenvolvedora back-end com 2 anos de experiência na área. Formada em Análise
 
 👩🏻‍💻 atualmente estudando sobre React, Node.js e o livro Clean Code, de Robert Cecil Martin.
 
-💬 você pode falar comigo se precisar de ajuda sobre algo (é serio! pode me mandar uma dm no twitter, linkedin ou um e-mail).
+💬 você pode falar comigo se precisar de ajuda sobre algo (é serio! pode me adicionar no Discord: Luiza#3095).
 
 ⚡ fun fact: scooby-doo é meu desenho animado favorito e eu amo dinossauros e galáxias.
 
