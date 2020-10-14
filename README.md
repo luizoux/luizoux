@@ -1,7 +1,6 @@
 ## Hi there, I'm Luiza 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-44475a?logo=Linkedin&labelColor=44475a&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
-[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-44475a)](https://app.rocketseat.com.br/me/luizarvm)
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
 [![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 
