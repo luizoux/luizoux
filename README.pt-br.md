@@ -1,4 +1,4 @@
-## Olá, meu nome é Luiza 👋
+## Olá 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-44475a?logo=Linkedin&labelColor=44475a&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
@@ -42,6 +42,7 @@ O Pantanal continua queimando fora de controle. De 1 de janeiro a 06 de setembro
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?logo=xamarin&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 
