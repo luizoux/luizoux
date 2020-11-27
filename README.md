@@ -45,6 +45,7 @@ The Brazilian Pantanal is burning out of control. From January 1 to September 6,
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?logo=xamarin&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 
