@@ -4,13 +4,11 @@
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
 [![luiza.dev](https://img.shields.io/badge/💙-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 
-Desenvolvedora back-end com 2 anos de experiência na área. Formada em Análise e Desenvolvimento de Sistemas e entusiasta nos estudos sobre inteligência aritifical. Ativista dos direitos das mulheres, anti-fascista e ás vezes falando sobre problemas políticos nas tecnologia. 🦾
+Desenvolvedora back-end há 2 anos, graduada em Análise e Desenvolvimento de Sistemas e entusiasta por estudos de inteligência artificial. Sou uma ativista dos direitos das mulheres, antifascista e às vezes gosto de falar sobre questões políticas em tecnologia. 🦾
 
 🪐 ela/dela; 21 anos; de curitiba-pr.
 
-👩🏻‍💻 atualmente estudando sobre React, Node.js e o livro Clean Code, de Robert Cecil Martin.
-
-💬 você pode falar comigo se precisar de ajuda sobre algo (é serio! pode me adicionar no Discord: Luiza#3095).
+💬 você pode falar comigo se precisar de ajuda com algo!
 
 ⚡ fun fact: scooby-doo é meu desenho animado favorito e eu amo dinossauros e galáxias.
 
