@@ -9,7 +9,7 @@
 
 Back-end developer for 2 years, graduated in Systems Development and enthusiastic about artificial intelligence studies. I'm a women's rights activist, anti-fascist and sometimes I like to talk about political issues in technology. 🦾
 
-🪐 she/her; 21 years old; from curitiba, pr - brazil.
+🪐 she/her; 22 years old; from curitiba, pr - brazil.
 
 💬 you can talk to me if you need help!
 
