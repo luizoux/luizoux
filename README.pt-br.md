@@ -6,7 +6,7 @@
 
 Desenvolvedora back-end há 2 anos, graduada em Análise e Desenvolvimento de Sistemas e entusiasta por estudos de inteligência artificial. Sou uma ativista dos direitos das mulheres, antifascista e às vezes gosto de falar sobre questões políticas em tecnologia. 🦾
 
-🪐 ela/dela; 21 anos; de curitiba-pr.
+🪐 ela/dela; 22 anos; de curitiba-pr.
 
 💬 você pode falar comigo se precisar de ajuda com algo!
 
