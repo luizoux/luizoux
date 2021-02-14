@@ -1,6 +1,6 @@
 ## Olá 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-44475a?logo=Linkedin&labelColor=44475a&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:luizaruivoms@gmail.com)](mailto:luizaruivoms@gmail.com)
+[![email](https://img.shields.io/badge/-hello@luiza.dev-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:hello@luiza.dev)](mailto:hello@luiza.dev)
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
 [![luiza.dev](https://img.shields.io/badge/🤍-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 
