@@ -28,7 +28,6 @@ The Brazilian Pantanal is burning out of control. From January 1 to September 6,
 ---
 
 ### Technical Skills
-#### Languages, Libraries, Frameworks and Tools that I work or have worked with
 ![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
