@@ -4,9 +4,9 @@
 [![Lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
 [![luiza.dev](https://img.shields.io/badge/🤍-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 
-Desenvolvedora back-end há 2 anos, graduada em Análise e Desenvolvimento de Sistemas e entusiasta por estudos de inteligência artificial. Sou uma ativista dos direitos das mulheres, antifascista e às vezes gosto de falar sobre questões políticas em tecnologia. 🦾
+Desenvolvedora back-end há 2 anos, graduada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Inteligência Artificial Aplicada na UFPR. 🦾
 
-🪐 ela/dela; 22 anos; de curitiba-pr.
+🪐 ela/dela; 22 anos; curitiba-pr.
 
 💬 você pode falar comigo se precisar de ajuda com algo!
 
@@ -25,21 +25,15 @@ O Pantanal continua queimando fora de controle. De 1 de janeiro a 06 de setembro
 ---
 
 ### Habilidades Técnicas
-#### Linguagens, Bibliotecas, Frameworks e Ferramentas
+#### Linguagens, Bibliotecas, Frameworks e Ferramentas com que trabalho ou já trabalhei
 ![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 ![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
-![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?logo=xamarin&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
