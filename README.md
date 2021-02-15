@@ -7,7 +7,7 @@
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/><br/>
 
-Back-end developer for 2 years, graduated in Systems Analysis and Development and post-graduate student in Applied Artificial Intelligence at UFPR. 🦾
+Back-end developer for 2 years, graduated in Systems Analysis and Development and post-graduate student in Applied Artificial Intelligence at Federal University of Paraná (UFPR). 🦾
 
 🪐 she/her; 22 years old; from curitiba, pr - brazil.
 
