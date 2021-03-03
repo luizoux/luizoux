@@ -1,9 +1,7 @@
 ## olá, eu sou a Luiza 👋
-[![linkedin](https://img.shields.io/badge/-LinkedIn-44475a?logo=Linkedin&labelColor=44475a&logoColor=white&link=https://www.linkedin.com/in/luizous/?locale=en_US)](https://www.linkedin.com/in/luizarvm/)
-[![email](https://img.shields.io/badge/-hello@luiza.dev-44475a?logo=Gmail&labelColor=44475a&logoColor=white&link=mailto:hello@luiza.dev)](mailto:hello@luiza.dev)
-[![lattes](https://img.shields.io/badge/%20-Lattes-44475a)](http://lattes.cnpq.br/1667735616723826)
-[![luiza.dev](https://img.shields.io/badge/🤍-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
-[![telegram](https://img.shields.io/badge/luizoux-44475a?logo=telegram&labelColor=44475a)]()
+<pre>
+  <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a   href="https://luiza.dev/" target="_blank">my site</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a>
+</pre>
 
 22 anos de idade e desenvolvedora back-end por 2. sou de uma cidadezinha chamada itararé e atualmente moro em curitiba, onde me graduei em análise e desenvolvimento de sistemas. agora, estou me especializando em inteligência artificial aplicada na universidade federal do paraná (ufpr). 🦾
 
