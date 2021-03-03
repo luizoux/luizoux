@@ -9,7 +9,7 @@
 
 <img align="right" width="180" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
 
----
+--
 
 
 ### coisas que já trabalhei
@@ -19,7 +19,7 @@
 ! java, python, node.js, aws, azure, mysql, sqlserver
 ```
 
----
+--
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous)](https://github.com/anuraghazra/github-readme-stats)
 [![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizous&count_private=true&layout=compact)](https://github.com/luizous?tab=repositories)
