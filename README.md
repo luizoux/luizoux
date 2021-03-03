@@ -6,7 +6,7 @@
 🔡 em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
-22 years old and back-end developer for 2 years. i'm from a small town called itararé, but currently living in curitiba - pr in brazil, where i graduated in systems analysis and development. right now, i'm a post-graduate student in applied artificial intelligence at federal university of parana (UFPR). 🦾
+22 years old and back-end developer for 2 years. graduated in systems analysis and development and post-graduate student in applied artificial intelligence at federal university of parana (UFPR). 🦾
 
 💬 you can talk to me if you need help!
 
