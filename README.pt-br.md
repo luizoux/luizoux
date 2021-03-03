@@ -5,9 +5,6 @@
 [![luiza.dev](https://img.shields.io/badge/🤍-luiza.dev-44475a?labelColor=44475a)](https://luiza.dev/)
 [![telegram](https://img.shields.io/badge/luizoux-44475a?logo=telegram&labelColor=44475a)]()
 
-🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
-<br/>
-
 22 anos de idade e desenvolvedora back-end por 2. sou de uma cidadezinha chamada itararé e atualmente moro em curitiba, onde me graduei em análise e desenvolvimento de sistemas. agora, estou me pós-graduando em inteligência artificial aplicada na universidade federal do paraná (ufpr). 🦾
 
 💬 você pode falar comigo se precisar de ajuda ou quiser conversar!
