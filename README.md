@@ -1,6 +1,6 @@
 ## hi there, i'm Luiza 👋
 <pre>
-  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US">linkedin</a> ; <a href="mailto:hello@luiza.dev">email</a> ; <a   href="https://luiza.dev/english.html">my site</a> ; <a href="http://lattes.cnpq.br/1667735616723826l">lattes</a>
+  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a   href="https://luiza.dev/english.html" target="_blank">my site</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a>
 </pre>
 
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
