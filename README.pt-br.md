@@ -10,7 +10,7 @@
 
 22 anos de idade e desenvolvedora back-end por 2. sou de uma cidadezinha chamada itararé e atualmente moro em curitiba, onde me graduei em análise e desenvolvimento de sistemas. agora, estou me pós-graduando em inteligência artificial aplicada na universidade federal do paraná (ufpr). 🦾
 
-💬 você pode falar comigo se precisa de ajuda ou quiser conversar!
+💬 você pode falar comigo se precisar de ajuda ou quiser conversar!
 
 <img align="right" width="180" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
 
