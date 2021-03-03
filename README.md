@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a   href="https://luiza.dev/english.html" target="_blank">my site</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a>
 </pre>
 
-🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
+🔡 em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
 22 years old and back-end developer for 2 years. i'm from a small town called itararé, but currently living in curitiba - pr in brazil, where i graduated in systems analysis and development. right now, i'm a post-graduate student in applied artificial intelligence at federal university of parana (UFPR). 🦾
