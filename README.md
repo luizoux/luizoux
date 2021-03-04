@@ -18,8 +18,9 @@
 ### things that i have work with
 
 ```diff
-+ c#, .net, javascript, xamarin, git
-! java, python, node.js, aws, azure, mysql, sqlserver
++ c#, .net, javascript, xamarin, git, aws, azure, sqlserver
+! java, python, node.js, mysql
+@@ learning clojure @@
 ```
 
 --
