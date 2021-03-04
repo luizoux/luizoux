@@ -11,10 +11,14 @@
 
 
 ```diff
+ 
+  
 + c#, .net, javascript, xamarin, git, aws, azure, sqlserver
 ! java, python, node.js, mysql
-@@ aprendendo clojure @@
+@@ learning clojure @@
+ 
+  
 ```
 
-[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous)](https://github.com/anuraghazra/github-readme-stats)
-[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizous&count_private=true&layout=compact)](https://github.com/luizous?tab=repositories)
+[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizous&count_private=true&layout=compact&theme=tokyonight)](https://github.com/luizous?tab=repositories)
