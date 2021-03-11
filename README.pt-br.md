@@ -1,6 +1,6 @@
 ## olá, eu sou a Luiza 👋
 <pre>
-  <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a   href="https://luiza.dev/" target="_blank">my site</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a>
+  <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://www.notion.so/study-ad90248ef15f423bbc5f8e9fbe71462f" target="_blank">my study track</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a>
 </pre>
 
 22 anos de idade e desenvolvedora back-end por 2. graduada em análise e desenvolvimento de sistemas e me especializando em inteligência artificial aplicada na universidade federal do paraná (ufpr). 🦾
