@@ -20,7 +20,7 @@ post-graduate student in applied AI at federal university of parana (UFPR)
 
 ```diff
  
-  
+- Current stack and technologies:
 + c#, .net, javascript, xamarin, git, aws, azure, sqlserver
 ! java, python, node.js, mysql
 @@ learning clojure @@
