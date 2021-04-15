@@ -1,6 +1,6 @@
 ## hi there, i'm Luiza 👋
 <pre>
-  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://www.notion.so/study-ad90248ef15f423bbc5f8e9fbe71462f" target="_blank">my study track</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a>
+  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a> ; <a href="https://dev.to/luizous" target="_blank">dev.to</a>
 </pre>
 
 🔡 em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
@@ -20,7 +20,7 @@ post-graduate student in applied AI at federal university of parana (UFPR)
 
 ```diff
  
-- Current stack and technologies:
+- stack and technologies:
 + c#, .net, javascript, xamarin, git, aws, azure, sqlserver
 ! java, python, node.js, mysql
 @@ learning clojure @@
