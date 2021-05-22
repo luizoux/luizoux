@@ -20,7 +20,7 @@ me especializando em inteligência artificial aplicada na universidade federal d
  
   
 + c#, .net, javascript, xamarin, git, aws, azure, sqlserver
-! java, python, node.js, mysql
++ python, R, java, node.js, mysql
  
   
 ```
