@@ -23,7 +23,7 @@ post-graduate student in applied AI at federal university of parana (UFPR)
  
 - stack and technologies:
 + c#, .net, javascript, xamarin, git, aws, azure, sqlserver
-! java, python, node.js, mysql
++ python, R, java, node.js, mysql
  
   
 ```
