@@ -28,5 +28,5 @@ post-graduate student in applied AI at federal university of parana (UFPR)
   
 ```
 
-[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizous&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizous&count_private=true&layout=compact&theme=tokyonight)](https://github.com/luizous?tab=repositories)
+[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizoux&count_private=true&layout=compact&theme=tokyonight)](https://github.com/luizoux?tab=repositories)
