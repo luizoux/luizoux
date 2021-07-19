@@ -1,18 +1,16 @@
-## hi there, i'm Luiza 👋
+## Hi there, I'm Luiza 👋
 <pre>
-  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a> ; <a href="https://dev.to/luizous" target="_blank">dev.to</a>
+  <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a> ; <a href="https://dev.to/luizoux" target="_blank">dev.to</a>
 </pre>
 
-🔡 em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
+🔡 Em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
-22 years old
+22 years old;
 
-back-end developer for 2 years
+Back-end developer for 2 years;
 
-degree in systems analysis and development
-
-post-graduate student in applied AI at federal university of parana (UFPR)
+Post-Graduate Student in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
 💬 you can talk to me if you need help!
 
@@ -21,9 +19,12 @@ post-graduate student in applied AI at federal university of parana (UFPR)
 ```diff
  
  
-- stack and technologies:
-+ c#, .net, javascript, xamarin, git, aws, azure, sqlserver
-+ python, R, java, node.js, mysql
++ This is the stack and technologies that I work with:
+C#, .NET, Xamarin, Git, AWS, Azure, SQLServer, MYSQL.
+
++ And the ones I'm studing (also topics):
+Python, R, RStudio, Data pre-processing, Machine Learning, 
+Neural Network.
  
   
 ```
