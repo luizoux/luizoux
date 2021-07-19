@@ -24,7 +24,6 @@ C#, .NET, Xamarin, Git, AWS, Azure, SQLServer, MYSQL.
 + And the ones I'm studing (also topics):
 Python, R, RStudio, Data pre-processing, Machine Learning, 
 Neural Network.
-  
 ```
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
