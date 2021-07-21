@@ -18,15 +18,13 @@ Me especializando em Inteligência Artificial Aplicada na Universidade Federal d
 
 ```diff
  
-  
 + Essa é a stack e as tecnologias que eu trabalho:
-C#, .NET, Xamarin, Git, AWS, Azure, SQLServer, MYSQL.
+C#, .NET, Xamarin, Git (obviously), AWS, Azure DevOps, 
+Azure Database, SQLServer, MySQL.
 
 + E algumas que eu estou estudando (incluindo alguns tópicos):
 Python, R, RStudio, Data pre-processing, Machine Learning, 
-Neural Network.
- 
-  
+Neural Network, Scikit-learn.
 ```
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
