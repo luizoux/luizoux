@@ -23,8 +23,7 @@ C#, .NET, Xamarin (iOs and Android), Git (obviously), AWS, Azure DevOps,
 Azure Database, SQLServer, MySQL.
 
 + And the ones I'm studing (also topics):
-Python, R, RStudio, Data pre-processing, Machine Learning, 
-Neural Network, Scikit-learn.
+Python, R, RStudio, Data pre-processing, Machine Learning, Neural Network, Scikit-learn.
 ```
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
