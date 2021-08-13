@@ -5,7 +5,7 @@
 
 Tenho 22 anos de idade;
 
-Desenvolvedora back-end há 2 anos;
+Desenvolvedora back-end há 3 anos;
 
 Graduada em Análise e Desenvolvimento de Sistemas;
 
