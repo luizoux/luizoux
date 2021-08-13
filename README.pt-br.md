@@ -18,7 +18,7 @@ Me especializando em Inteligência Artificial Aplicada na Universidade Federal d
 
 ```diff
 + Essa é a stack e as tecnologias que eu trabalho:
-C#, .NET, Xamarin, Git (obviously), AWS, Azure DevOps, Azure Database, SQLServer, MySQL.
+C#, .NET, Xamarin (iOs e Android), Git (obviously), AWS, Azure DevOps, Azure Database, SQLServer, MySQL.
 
 + E algumas que eu estou estudando (incluindo alguns tópicos):
 Python, R, RStudio, Data pre-processing, Machine Learning, 
