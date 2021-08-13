@@ -19,7 +19,7 @@ Post-Graduate Student in Applied Artificial Intelligence at Federal University o
 ```diff
  
 + This is the stack and technologies that I work with:
-C#, .NET, Xamarin (iOs e Android), Git (obviously), AWS, Azure DevOps, Azure Database, SQLServer, MySQL.
+C#, .NET, Xamarin (iOs and Android), Git (obviously), AWS, Azure DevOps, Azure Database, SQLServer, MySQL.
 
 + And the ones I'm studing (also topics):
 Python, R, RStudio, Data pre-processing, Machine Learning, 
