@@ -6,7 +6,7 @@
 🔡 Em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
-22 years old;
+23 years old;
 
 Back-end developer for 3 years;
 
