@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a> ; <a href="https://dev.to/luizous" target="_blank">dev.to</a>
 </pre>
 
-Tenho 22 anos de idade;
+Tenho 23 anos de idade;
 
 Desenvolvedora back-end há 3 anos;
 
