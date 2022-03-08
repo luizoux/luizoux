@@ -20,12 +20,10 @@ Post-Graduate Student in Applied Artificial Intelligence at Federal University o
  
 + This is the stack and technologies that I work with:
 C#, .NET, Angular, Postgresql.
-
 + And the ones I'm studing:
 Python, R, Data pre-processing, Machine and Deep Learning.
-
 + In a long long time ago, I worked with:
-Xamarin, (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
+Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 
 ```
 
