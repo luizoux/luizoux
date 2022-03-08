@@ -19,11 +19,14 @@ Post-Graduate Student in Applied Artificial Intelligence at Federal University o
 ```diff
  
 + This is the stack and technologies that I work with:
-C#, .NET, Xamarin (iOs and Android), Git (obviously), AWS, Azure DevOps, 
-Azure Database, SQLServer, MySQL.
+C#, .NET, Angular, Postgresql.
 
-+ And the ones I'm studing (also topics):
-Python, R, RStudio, Data pre-processing, Machine Learning, Neural Network, Scikit-learn.
++ And the ones I'm studing:
+Python, R, Data pre-processing, Machine and Deep Learning.
+
++ In a long long time ago, I worked with:
+Xamarin, (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
+
 ```
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
