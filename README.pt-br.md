@@ -1,11 +1,11 @@
 ## Olá, eu sou a Luiza 👋
 <pre>
-  <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="mailto:hello@luiza.dev" target="_blank">email</a> ; <a href="http://lattes.cnpq.br/1667735616723826l" target="_blank">lattes</a> ; <a href="https://vsco.co/luizou/gallery" target="_blank">vsco</a> ; <a href="https://dev.to/luizous" target="_blank">dev.to</a>
+  <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="http://lattes.cnpq.br/1667735616723826" target="_blank">lattes</a> ; <a href="https://www.instagram.com/luizarvm/" target="_blank">instagram</a> ; <a href="https://dev.to/luizoux" target="_blank">dev.to</a> ; hello@luiza.dev
 </pre>
 
-Tenho 23 anos de idade;
+Tenho 24 anos de idade;
 
-Desenvolvedora back-end há 3 anos;
+Desenvolvedora back-end há 4 anos;
 
 Graduada em Análise e Desenvolvimento de Sistemas;
 
@@ -22,7 +22,7 @@ C#, .NET, Angular, Postgresql.
 + E algumas que eu estou estudando:
 Python, R, Data pre-processing, Machine and Deep Learning.
 + Já trabalhei com essas também:
-Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
+MongoDB, Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 ```
 
 [![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
