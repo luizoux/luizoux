@@ -6,9 +6,9 @@
 🔡 Em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
-23 years old;
+24 years old;
 
-Back-end developer for 3 years;
+Back-end developer for 4 years;
 
 Post-Graduate Student in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
@@ -23,7 +23,7 @@ C#, .NET, Angular, Postgresql.
 + And the ones I'm studing:
 Python, R, Data pre-processing, Machine and Deep Learning.
 + In a long long time ago, I worked with:
-Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
+MongoDB, Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 
 ```
 
