@@ -10,7 +10,7 @@
 
 Back-end developer for 4 years;
 
-Post-Graduate Student in Applied Artificial Intelligence at Federal University of Parana (UFPR).
+Specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
 💬 you can talk to me if you need help!
 
@@ -19,9 +19,9 @@ Post-Graduate Student in Applied Artificial Intelligence at Federal University o
 ```diff
  
 + This is the stack and technologies that I work with:
-C#, .NET, Angular, Postgresql.
+C#, .NET, Angular, Postgresql, Jasmine, xUnit.
 + And the ones I'm studing:
-Python, R, Data pre-processing, Machine and Deep Learning.
+Ethics in AI.
 + In a long long time ago, I worked with:
 MongoDB, Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 
