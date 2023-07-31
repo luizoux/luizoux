@@ -9,7 +9,7 @@ Desenvolvedora back-end há 4 anos;
 
 Graduada em Análise e Desenvolvimento de Sistemas;
 
-Me especializando em Inteligência Artificial Aplicada na Universidade Federal do Paraná (UFPR).
+Especialista em Inteligência Artificial Aplicada na Universidade Federal do Paraná (UFPR).
 
 💬 Você pode falar comigo se precisar de ajuda ou quiser conversar!
 
@@ -18,9 +18,9 @@ Me especializando em Inteligência Artificial Aplicada na Universidade Federal d
 
 ```diff
 + Essa é a stack e as tecnologias que eu trabalho:
-C#, .NET, Angular, Postgresql.
+C#, .NET, Angular, Postgresql, Jasmine, xUnit.
 + E algumas que eu estou estudando:
-Python, R, Data pre-processing, Machine and Deep Learning.
+Ética na IA.
 + Já trabalhei com essas também:
 MongoDB, Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 ```
