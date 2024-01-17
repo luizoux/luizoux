@@ -6,9 +6,9 @@
 🔡 Em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
 <br/>
 
-24 years old;
+25 years old;
 
-Back-end developer for 4 years;
+Back-end developer for 5 years;
 
 Specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
