@@ -8,7 +8,7 @@
 
 26 years old;
 
-Back-end developer for 5 years;
+Back-end developer for 6 years;
 
 Specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
