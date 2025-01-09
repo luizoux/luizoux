@@ -3,9 +3,9 @@
   <a href="https://www.linkedin.com/in/luizarvm/" target="_blank">linkedin</a> ; <a href="http://lattes.cnpq.br/1667735616723826" target="_blank">lattes</a> ; <a href="https://www.instagram.com/luizarvm/" target="_blank">instagram</a> ; <a href="https://dev.to/luizoux" target="_blank">dev.to</a> ; hello@luiza.dev
 </pre>
 
-Tenho 25 anos de idade;
+Tenho 26 anos de idade;
 
-Desenvolvedora back-end há 5 anos;
+Desenvolvedora back-end há 6 anos;
 
 Graduada em Análise e Desenvolvimento de Sistemas;
 
