@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="http://lattes.cnpq.br/1667735616723826" target="_blank">lattes</a> ; hello@luiza.dev
 </pre>
 
-🔡 Em <b>português</b> [aqui](https://github.com/luizous/luizous/blob/master/README.pt-br.md).
-<br/>
-
 26 years old;
 
 Back-end developer for 6 years;
