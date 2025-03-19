@@ -1,13 +1,13 @@
-## Hi there, I'm Luiza 👋
+## hi there, i'm Luiza 👋
 <pre>
   <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="http://lattes.cnpq.br/1667735616723826" target="_blank">lattes</a> ; hello@luiza.dev
 </pre>
 
 26 years old;
 
-Back-end developer for 6 years;
+back-end developer for 6 years;
 
-Specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
+specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
 
 💬 you can talk to me if you need help!
 
@@ -15,11 +15,11 @@ Specialist in Applied Artificial Intelligence at Federal University of Parana (U
 
 ```diff
  
-+ This is the stack and technologies that I work with:
++ this is the stack and technologies that I work with:
 C#, .NET, Angular, Postgresql, Jasmine, xUnit.
-+ And the ones I'm studing:
++ and the ones I'm studing:
 Ethics in AI.
-+ In a long long time ago, I worked with:
++ in a long long time ago, I worked with:
 MongoDB, Xamarin (iOs and Android), AWS, Azure Database, SQLServer, MySQL.
 
 ```
